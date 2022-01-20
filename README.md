@@ -27,8 +27,6 @@
 
 ---
 
-<br />
-
 ### Connect with me:
 <p align="center">
   <a href="https://twitter.com/lufarius"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
