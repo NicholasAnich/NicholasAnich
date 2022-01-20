@@ -6,16 +6,11 @@
 - 👯 I’m open to connect and learn
 - 🥅 2022 Goals: Learn Typescript, threejs, land a job
 - ⚡ Fun fact: I am from Hawaii and love to play guitar
-<br />
-<br />
----
+
 <br />
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
 
-<br />
-
----
 <br />
 
 ## Technologies
@@ -32,7 +27,6 @@
 
 ---
 
-<br />
 <br />
 
 ### Connect with me:
