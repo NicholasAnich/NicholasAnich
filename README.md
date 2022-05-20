@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently seeking job opportunities 
 - :mage: I’m open to connect and learn
-- 🥅 2022 Goals: Learn GoLang, and Java
-- ⚡ Fun fact: I am from Hawaii and love to play guitar
+- :computer: 2022 Goals: Learn GoLang, and Java
+- :surfing_man: Fun fact: I am from Hawaii and love to play guitar
 
 
 <br />
