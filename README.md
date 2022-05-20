@@ -5,7 +5,7 @@
 ## I'm a Software Engineer, Gamer, Guitarist, and Investor!!
 
 - 🌱 I’m currently seeking job opportunities 
-- 👯 I’m open to connect and learn
+- :mage: I’m open to connect and learn
 - 🥅 2022 Goals: Learn GoLang, and Java
 - ⚡ Fun fact: I am from Hawaii and love to play guitar
 
