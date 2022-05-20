@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/https://img.icons8.com/ios/344/typescript.png?&style=flat-square&logo=typescript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%230A68AD.svg?&style=flat-square&logo=typescript&logoColor=fff)
 
 ### **Back End:**
 
