@@ -55,12 +55,13 @@
 <br />
 
 ## My Github Stats
+***
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
----
 
 <br />
 
 ### Connect with me:
+***
 <p align="center">
   <a href="https://twitter.com/lufarius"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/nick-anich"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
