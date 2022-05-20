@@ -7,9 +7,7 @@
 - 🥅 2022 Goals: Learn Typescript, threejs, land a job
 - ⚡ Fun fact: I am from Hawaii and love to play guitar
 
-<br />
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
 
 <br />
 
@@ -64,3 +62,6 @@
   <a href="mailto:infinitevolume@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   </p>
 
+<br />
+
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
