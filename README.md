@@ -51,6 +51,13 @@
 ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 
+
+<br />
+
+## My Github Stats
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
+
+
 ---
 
 ### Connect with me:
@@ -62,6 +69,3 @@
   <a href="mailto:infinitevolume@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   </p>
 
-<br />
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
