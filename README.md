@@ -56,16 +56,14 @@
 
 ## My Github Stats
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/NicholasAnich/github-readme-stats)
-
-
 ---
+
+<br />
 
 ### Connect with me:
 <p align="center">
   <a href="https://twitter.com/lufarius"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://discord.gg/Lufarius#7810"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://www.linkedin.com/in/nick-anich"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.twitch.tv/lufarius"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="mailto:infinitevolume@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   </p>
 
