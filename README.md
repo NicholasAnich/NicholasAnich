@@ -1,4 +1,6 @@
 ### Hi there, I'm Nicholas Anich 👋 
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NicholasAnich/)
+[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:infinitevolume@gmail.com)
 
 ## I'm a Software Engineer, Gamer, Guitarist, and Investor!!
 
