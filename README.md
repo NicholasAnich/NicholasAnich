@@ -10,6 +10,7 @@ With a strong background in front-end development and proficiency in React, Java
 
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm Currently learning Python & C++
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://nicholasanich.com) -->
 * 🤝  I'm open to collaborating on Projects
 
 
