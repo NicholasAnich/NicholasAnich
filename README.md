@@ -98,7 +98,7 @@ With a strong background in front-end development and proficiency in React, Java
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnich&hide=java,html,tex&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/NicholasAnich/NicholasAnich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicholas Anich's GitHub Stats" />
 </a>
 
 <a href="https://github.com/NicholasAnich/next-minimalist-porfolio">
