@@ -107,7 +107,7 @@ With a strong background in front-end development and proficiency in React, Java
 
 
 <a href="https://github.com/NicholasAnich/Easy-Bank-Lading-Page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasAnich&repo=Easy-Bank-Lading-Page&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://vercel.com/nicholasanich/github-readme-stats/4RGqk7MD2eumefRf9hZPWBegc3F1/api/pin/?username=NicholasAnich&repo=Easy-Bank-Lading-Page&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ## Connect with me:
