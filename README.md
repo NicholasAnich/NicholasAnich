@@ -95,14 +95,14 @@ With a strong background in front-end development and proficiency in React, Java
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NicholasAnich/NicholasAnich">
-  <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api/top-langs/?username=NicholasAnich&hide=java,html,tex&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="github-readme-stats-three-wheat-93.vercel.app/api/top-langs/?username=NicholasAnich&hide=java,html,tex&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/NicholasAnich/NicholasAnich">
-  <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicholas Anich's GitHub Stats" />
+  <img align="center" src="github-readme-stats-three-wheat-93.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicholas Anich's GitHub Stats" />
 </a>
 
 <a href="https://github.com/NicholasAnich/next-minimalist-porfolio">
-  <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api/pin/?username=NicholasAnich&repo=next-minimalist-porfolio&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="github-readme-stats-three-wheat-93.vercel.app/api/pin/?username=NicholasAnich&repo=next-minimalist-porfolio&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
