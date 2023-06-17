@@ -93,20 +93,41 @@ With a strong background in front-end development and proficiency in React, Java
 
 ## &#x1f4c8; GitHub Stats
 
+
+<!--
+
+NOTE: changed the src to include "sigma-five" since private instance wasn't working. Should change it back later.
+
 <a href="https://github.com/NicholasAnich/NicholasAnich">
   <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api/top-langs/?username=NicholasAnich&hide=java,html,tex&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+-->
+<a href="https://github.com/NicholasAnich/NicholasAnich">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicholasAnich&hide=java,html,tex&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<!--
 <a href="https://github.com/NicholasAnich/NicholasAnich">
   <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicholas Anich's GitHub Stats" />
 </a>
-
+-->
+<a href="https://github.com/NicholasAnich/NicholasAnich">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicholasAnich&show_icons=true&line_height=27&count_private=true&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicholas Anich's GitHub Stats" />
+</a>
+<!--
 <a href="https://github.com/NicholasAnich/next-minimalist-porfolio">
   <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api/pin/?username=NicholasAnich&repo=next-minimalist-porfolio&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
+-->
+<a href="https://github.com/NicholasAnich/next-minimalist-porfolio">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NicholasAnich&repo=next-minimalist-porfolio&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<!--
 <a href="https://github.com/NicholasAnich/Easy-Bank-Lading-Page">
   <img align="center" src="https://github-readme-stats-nicholasanich.vercel.app/api/pin/?username=NicholasAnich&repo=Easy-Bank-Lading-Page&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+-->
+<a href="https://github.com/NicholasAnich/Easy-Bank-Lading-Page">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NicholasAnich&repo=Easy-Bank-Lading-Page&title_color=14b8a6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ## Connect with me:
