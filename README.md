@@ -6,8 +6,6 @@
 
 dont mind me...
 
-With a strong background in front-end development and proficiency in React, JavaScript, Node.js, HTML, and CSS, I have been building intuitive and visually appealing user experiences for the past 2 years. Originally from Hawaii, I am now based in Los Angeles and always on the lookout for new and exciting opportunities to apply my skills. Whether it's creating dynamic single page applications or implementing responsive design, I thrive on bringing ideas to life and delivering high-quality products.
-
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm Currently learning Python & C++
 * 🤝  I'm open to collaborating on Projects
