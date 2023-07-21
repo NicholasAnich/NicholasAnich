@@ -4,8 +4,6 @@
 
 ![meow_code](https://user-images.githubusercontent.com/43455999/210121096-e3acf694-e077-499c-941a-5823504f863e.gif)
 
-dont mind me...
-
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm Currently learning Python & C++
 * 🤝  I'm open to collaborating on Projects
