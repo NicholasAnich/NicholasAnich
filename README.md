@@ -1,10 +1,14 @@
 <!-- ### Hi there, I'm Nicholas Anich 👋  -->
 
-# Hi, nice to see you here! 👋
+ <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmOXNjemgzanU0d2xqdTI5bnc0bTE4ZWdrNGZrYWEzYmIyc2xqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XTy2LXPJDaCTvCH859/giphy.gif" height="100" alt="mog playing a flute"/> Hi, nice to see you here! 
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmOXNjemgzanU0d2xqdTI5bnc0bTE4ZWdrNGZrYWEzYmIyc2xqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XTy2LXPJDaCTvCH859/giphy.gif" height="100" style="transform: scaleX(-1)" alt="mog playing a flute reversed"/>
+ </h1>
 
-<!-- ![meow_code](https://user-images.githubusercontent.com/43455999/210121096-e3acf694-e077-499c-941a-5823504f863e.gif) -->
 
-<img src="https://media.giphy.com/media/5oJqZPNvOqbGTshg9k/giphy.gif" width="80" height="66" alt="scott pilgram running gif" />
+<!-- ![meow_code](https://user-images.githubusercontent.com/43455999/210121096-e3acf694-e077-499c-941a-5823504f863e.gif) 
+
+ <img src="https://media.giphy.com/media/5oJqZPNvOqbGTshg9k/giphy.gif" width="80" height="66" alt="scott pilgram running gif" />
+-->
 
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm Currently learning Python & C++
